@@ -1,4 +1,4 @@
-﻿<#
+<#
 .SYNOPSIS
 ConfigureAudioCodesDHCPOption.ps1
 
@@ -20,11 +20,9 @@ Written by: Luca Vitali
 Find me on:
 * My Blog:	https://lucavitali.wordpress.com/
 * Twitter:	https://twitter.com/Luca_Vitali
-* LinkedIn:	http://it.linkedin.com/in/lucavitali/
+* LinkedIn:	https://www.linkedin.com/in/lucavitali/
 
-License:
-
-The MIT License (MIT)
+License: The MIT License (MIT)
 
 Copyright (c) 2017 Luca Vitali
 
